@@ -1,0 +1,2 @@
+CREATE NONCLUSTERED INDEX VehicleAge
+ON Vehicle(VehicleYear DESC);
